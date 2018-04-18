@@ -11,6 +11,8 @@ Looking for the releases, build instructions, or source code for BitCurator NLP 
 
   https://github.com/bitcurator/bitcurator-nlp-gentm
   
+  https://github.com/bitcurator/bitcurator-nlp-entspan
+  
   https://github.com/bitcurator/bitcurator-access-webtools
 
 ## BitCurator NLP documentation, help, and other information
